@@ -12,14 +12,16 @@
 ![](https://streak-stats.demolab.com/?user=mikesiez&theme=great-gatsby&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mikesiez&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mikesiez&theme=great-gatsby&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️🧠
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+<!-- 
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mikesiez&theme=great-gatsby&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mikesiez&limit=5&theme=great-gatsby&combine_all_yearly_contributions=true)
 
+-->
 ---
 [![](https://komarev.com/ghpvc/?username=mikesiez&icon=6&color=0)](https://visitcount.itsvg.in)
