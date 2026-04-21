@@ -24,4 +24,4 @@
 
 -->
 ---
-[![](https://komarev.com/ghpvc/?username=mikesiez&icon=6&color=red)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=mikesiez&icon=6&color=red)
